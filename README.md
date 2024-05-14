@@ -1,6 +1,6 @@
 # Infrastructure As Code With Ansible + Terraform
 
-![img](/images/iackadima.jpeg)
+<!-- ![img](/images/iackadima.jpeg) -->
 
 In this workshop I will take you through how to set up infrastructure with Terraform and how to configure it with Ansible. You will successfully set up a web server using code
 
@@ -27,4 +27,4 @@ In this workshop I will take you through how to set up infrastructure with Terra
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/kadima-samuel-804103bb/)
+<!-- - [LinkedIn](https://www.linkedin.com/in/kadima-samuel-804103bb/) -->
